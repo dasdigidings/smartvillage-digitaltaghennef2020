@@ -10,8 +10,6 @@ Danach ging es endlich an die Praxis: Für alle Teilnehmer waren TTN-Nodes in se
 
 ## [ENGLISH)
 
-![enter image description here](https://github.com/jensileinchen/smartvillage-digitaltaghennef2020/blob/master/img/Titel-Folie-800px.jpg)
-
 The “TTN-Rhein-Sieg” community, represented by [Caspar](https://github.com/Drasek) and [Jens](https://github.com/jensileinchen), presented itself very successfully on the occasion of the "Digital Day 2020" with a [lecture](https://github.com/jensileinchen/smartvillage-digitaltaghennef2020/blob/master/Smart-Village%20Hennef-digital-2020.pdf) and a workshop in the Meys factory. The host and partner for us is the city of Hennef, which addresses current topics with a webinar and a 3-part workshop series and not only promotes broadband expansion, but also promotes and supports eGovernment, Smart City and Smart Village projects.
 
 Our workshop started with a presentation of the technology, a brief explanation of the (Lora) radio technology, followed by examples of current projects in Hennef and the surrounding area. We reported on the repair at Blankenberg Castle, where not only is there a “Freifunk” Accesspoint (providing free internet access), but in addition to a TTN gateway, a WiBACK directional radio link is also received by the Siegburg town hall.
